@@ -1,0 +1,80 @@
+newmtl Koala2:blinn2SG
+illum 4
+Kd 0.27 0.18 0.24
+Ka 0.37 0.37 0.37
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.21 0.21 0.21
+newmtl Koala2:blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+newmtl Koala2:blinn4SG
+illum 4
+Kd 1.00 0.70 0.73
+Ka 0.27 0.27 0.27
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.17 0.17
+newmtl Koala2:blinn4SG1
+illum 4
+Kd 0.47 0.17 0.20
+Ka 0.36 0.36 0.36
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.17 0.17
+newmtl Koala2:blinn6SG
+illum 4
+Kd 0.46 0.43 0.38
+Ka 0.19 0.19 0.19
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.47 0.47 0.47
+newmtl Koala2:blinn11SG
+illum 4
+Kd 0.76 0.31 0.51
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Koala2:cos_back
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.17 0.17 0.17
+Tf 1.00 1.00 1.00
+map_Kd koala_body_back.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl Koala2:cos_front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.22 0.22 0.22
+Tf 1.00 1.00 1.00
+map_Kd koala_body.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl Koala2:face_back1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.22 0.22 0.22
+Tf 1.00 1.00 1.00
+map_Kd koala_face_back.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl Koala2:face_front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.22 0.22 0.22
+Tf 1.00 1.00 1.00
+map_Kd koala_face.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl Koala2:lambert2SG
+illum 4
+Kd 0.97 0.99 1.00
+Ka 0.38 0.38 0.38
+Tf 1.00 1.00 1.00
+Ni 1.00
